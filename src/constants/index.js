@@ -132,11 +132,11 @@ const socials = [
     text: "Github",
     icon: "/icons/github.svg",
     bg: "#f4656b",
-    link: "https://github.com/JavaScript-Mastery-Pro",
+    link: "https://github.com/sagar3595",
   },
   {
     id: 2,
-    text: "Platform",
+    text: "Portfolio",
     icon: "/icons/atom.svg",
     bg: "#4bcb63",
     link: "https://jsmastery.com/",
@@ -146,14 +146,14 @@ const socials = [
     text: "Twitter/X",
     icon: "/icons/twitter.svg",
     bg: "#ff866b",
-    link: "https://x.com/jsmasterypro",
+    link: "https://x.com/sagarkumar15021",
   },
   {
     id: 4,
     text: "LinkedIn",
     icon: "/icons/linkedin.svg",
     bg: "#05b6f6",
-    link: "https://www.linkedin.com/company/javascriptmastery/posts/?feedView=all",
+    link: "https://www.linkedin.com/in/100xsagar/",
   },
 ];
 
@@ -225,7 +225,7 @@ const WORK_LOCATION = {
     // ▶ Project 1
     {
       id: 5,
-      name: "Nike Ecommerce Website Application",
+      name: "Finance AI - Personal Finance Management Platform",
       icon: "/images/folder.png",
       kind: "folder",
       position: "top-10 left-5", // icon position inside Finder
@@ -233,25 +233,25 @@ const WORK_LOCATION = {
       children: [
         {
           id: 1,
-          name: "Nike Project.txt",
+          name: "Finance AI.txt",
           icon: "/images/txt.png",
           kind: "file",
           fileType: "txt",
           position: "top-5 left-10",
           description: [
-            "The Nike eCommerce website is a sleek and modern platform designed for shopping the latest Nike collections.",
-            "Instead of a simple online store, it delivers an immersive experience with bold visuals, interactive product displays, and smooth navigation.",
-            "Think of it like walking into a flagship Nike store—but right from your phone or laptop.",
-            "It's built with Next.js and Tailwind, ensuring fast performance, responsive design, and a clean, premium look.",
+            "The Finance AI – Personal Management Platform is a smart and intuitive system designed to help users manage their income, expenses, and financial goals effortlessly.",
+            "Instead of being just a basic budgeting tool, it delivers an intelligent experience with AI-powered insights, real-time tracking, predictive analytics, and a clean interactive dashboard.",
+            "Think of it like having a personal financial advisor—but available 24/7 on your phone or laptop.",
+            "It's built with Next.js and Tailwind, ensuring fast performance, responsive design, secure data handling, and a modern, premium interface."
           ],
         },
         {
           id: 2,
-          name: "nike.com",
+          name: "FinanceAI.com",
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
-          href: "https://youtu.be/fZdTYswuZjU?si=Awjl-pIst9e09_UU",
+          href: "https://welth-finance-ai-platform.vercel.app/",
           position: "top-10 right-20",
         },
         {
@@ -278,7 +278,7 @@ const WORK_LOCATION = {
     // ▶ Project 2
     {
       id: 6,
-      name: "AI Resume Analyzer",
+      name: "SnapCast-Screen Recording & Sharing Platform",
       icon: "/images/folder.png",
       kind: "folder",
       position: "top-52 right-80",
@@ -286,25 +286,25 @@ const WORK_LOCATION = {
       children: [
         {
           id: 1,
-          name: "AI Resume Analyzer Project.txt",
+          name: "SnapCast.txt",
           icon: "/images/txt.png",
           kind: "file",
           fileType: "txt",
           position: "top-5 right-10",
           description: [
-            "AI Resume Analyzer is a smart tool that helps you perfect your resume with instant feedback.",
-            "Instead of guessing what recruiters want, you get AI-powered insights on keywords, formatting, and overall impact.",
-            "Think of it like having a career coach—pointing out strengths, fixing weaknesses, and boosting your chances of landing interviews.",
-            "It's built with Next.js and Tailwind, so it runs fast, looks professional, and works seamlessly on any device.",
+            "Snapcast is a powerful screen recording platform designed to capture, share, and manage your on-screen activities with ease.",
+            "Instead of using complex recording software, it delivers a seamless experience with instant recording, high-quality output, easy sharing options, and an intuitive control interface.",
+            "Think of it like having a lightweight studio—ready to record tutorials, presentations, gameplay, or meetings directly from your browser.",
+            "It's built with Next.js and Tailwind, ensuring fast performance, responsive design, and a clean, modern user experience across all devices.",
           ],
         },
         {
           id: 2,
-          name: "ai-resume-analyzer.com",
+          name: "SnapCast.com",
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
-          href: "https://youtu.be/iYOz165wGkQ?si=R1hs8Legl200m0Cl",
+          href: "https://snapcast-recording-application.vercel.app/sign-in",
           position: "top-20 left-20",
         },
         {
@@ -331,7 +331,7 @@ const WORK_LOCATION = {
     // ▶ Project 3
     {
       id: 7,
-      name: "Food Delivery App",
+      name: "Deal Drop",
       icon: "/images/folder.png",
       kind: "folder",
       position: "top-10 left-80",
@@ -339,25 +339,25 @@ const WORK_LOCATION = {
       children: [
         {
           id: 1,
-          name: "Food Delivery App Project.txt",
+          name: "DealDrop.txt",
           icon: "/images/txt.png",
           kind: "file",
           fileType: "txt",
           position: "top-5 left-10",
           description: [
-            "Our Food Delivery App is a fast and convenient way to order meals from your favorite restaurants.",
-            "Instead of making calls or waiting in line, you can browse menus, customize orders, and track deliveries in real time.",
-            "Think of it like having your favorite restaurants in your pocket—ready to deliver anytime, anywhere.",
-            "It’s built with React Native, so it works smoothly on both iOS and Android with a clean, modern design.",
+            "DealDrop is a full-stack product price tracking platform designed to monitor price changes and alert users about the best deals in real time.",
+            "Instead of manually checking multiple eCommerce websites, it delivers automated tracking, smart price history visualization, instant notifications, and a clean dashboard experience.",
+            "Think of it like having a personal deal assistant—continuously scanning products and notifying you when prices drop.",
+            "It's built with React 19 and Next.js 16, styled using Tailwind CSS and Shadcn UI, with Convex and Supabase powering real-time data synchronization, authentication, and backend logic for a fast, scalable experience."
           ],
         },
         {
           id: 2,
-          name: "food-delivery-app.com",
+          name: "DealDrop.com",
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
-          href: "https://youtu.be/LKrX390fJMw?si=cExkuVhf2DTV9G2-",
+          href: "https://deal-drop-omega.vercel.app/",
           position: "top-10 right-20",
         },
         {
@@ -397,7 +397,7 @@ const ABOUT_LOCATION = {
       kind: "file",
       fileType: "img",
       position: "top-10 left-5",
-      imageUrl: "/images/adrian.jpg",
+      imageUrl: "/images/sagar.JPG",
     },
     {
       id: 2,
@@ -406,7 +406,7 @@ const ABOUT_LOCATION = {
       kind: "file",
       fileType: "img",
       position: "top-28 right-72",
-      imageUrl: "/images/adrian-2.jpg",
+      imageUrl: "/images/casualme.JPG",
     },
     {
       id: 3,
